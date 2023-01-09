@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jacquroman
 - 👀 I’m interested in front-end React Development, but full stack in the future!
-- 🌱 I’m currently learning how to write amazon skills and python automation scripts
+- 🌱 I’m currently learning how to write more complex React components and RESTFUL APIs in Java!
 - 💞️ I’m looking to collaborate on any react front end projects!
-- 📫 How to reach me shoot me an email at roman.162@osu.edu
+- 📫 How to reach me shoot me an email at jacquelinedroman@gmail.com
 
 <!---
 jacquroman/jacquroman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
