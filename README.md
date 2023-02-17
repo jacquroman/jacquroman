@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jacquroman
-- 👀 I’m interested in front-end React Development, but full stack in the future!
+- 👀 I’m interested in front-end (React) and full stack development!
 - 🌱 I’m currently learning how to write more complex React components and RESTFUL APIs in Java!
 - 💞️ I’m looking to collaborate on any react front end projects!
 - 📫 How to reach me shoot me an email at jacquelinedroman@gmail.com
