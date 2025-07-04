@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @jacquroman
-- 👀 I’m interested in front-end (React) and full stack development!
-- 🌱 I’m currently learning how to write more complex React components and RESTFUL APIs in Java!
-- 💞️ I’m looking to collaborate on any react front end projects!
-- 📫 How to reach me shoot me an email at jacquelinedroman@gmail.com
+👋 Hi, I’m Jacqueline — a former Software Engineer turned award-winning Sales Engineer.
+
+💡 I build automation tools, AI workflows, and technical demos that streamline go-to-market operations, shorten sales cycles, and increase team productivity.
+
+🧰 I work with Python, JavaScript/React, Zapier, Salesforce, and APIs (OpenAI, Relevance AI, Samsara, Slack).
+
+🌱 Currently building: an AI-powered sales assistant + internal SE tools using Relevance AI, Zapier, and the Samsara API.
+
+🚀 Interested in collaborating on GTM automation, AI agents, or tools that make technical sales teams more efficient.
+
+📫 Reach me: jacquelinedroman@gmail.com
 
 <!---
 jacquroman/jacquroman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
