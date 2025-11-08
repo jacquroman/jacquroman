@@ -2,7 +2,7 @@
 
 💡 I build automation tools, AI workflows, and technical demos that streamline go-to-market operations, shorten sales cycles, and increase team productivity.
 
-🧰 I work with Python, JavaScript/React, Zapier, Salesforce, and APIs (OpenAI, Relevance AI, Samsara, Slack).
+🧰 I work with Python, JavaScript/React, Zapier, Salesforce, and APIs (OpenAI, Anthropic, Samsara).
 
 🌱 Currently building: an AI-powered sales assistant + internal SE tools using Relevance AI, Zapier, and the Samsara API.
 
